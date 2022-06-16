@@ -7,5 +7,6 @@ public class MyApplication {
         System.out.println("second version1");
         int a =  3;
         System.out.println("forth version1");
+        int b = 5;
     }
 }
